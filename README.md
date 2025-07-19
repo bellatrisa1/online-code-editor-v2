@@ -32,14 +32,13 @@ A lightweight, modern, and user-friendly web-based code editor built with **Reac
 ## 🚀 Getting Started
 
 ```bash
-### 1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/bellatrisa1/online-code-editor-v2.git
 
-### 2. Install Dependencies
+2. Install Dependencies
 npm install
 
-### 3. Start Development Server
+3. Start Development Server
 npm start
-
 
 The app will run on http://localhost:3000
