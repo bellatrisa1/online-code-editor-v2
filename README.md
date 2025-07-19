@@ -2,7 +2,7 @@
 
 A lightweight, modern, and user-friendly web-based code editor built with **React**, featuring live JavaScript execution, theme switching, and a clean UI powered by **Monaco Editor**.
 
-## 🔗 Ссылку на демо: https://online-code-editor-v2.vercel.app/
+## 🔗 Demo link: https://online-code-editor-v2.vercel.app/
 
 # ---
 
